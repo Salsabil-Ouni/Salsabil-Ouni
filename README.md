@@ -17,7 +17,8 @@ I like to explore the intersection between advanced computational methods and bi
 
 ---
 
-## Top Skills — Machine Learning & AI
+## Top Skills 
+### Machine Learning & AI
 
 <p>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -39,7 +40,6 @@ I like to explore the intersection between advanced computational methods and bi
 - Computer vision (OpenCV, PyTorch, TensorFlow)
 - NLP fundamentals (embedding models, sequence models)
 - Working with biomedical datasets & genetic data
-##Other Skills
 ## Other Skills
 
 ### Programming Languages
