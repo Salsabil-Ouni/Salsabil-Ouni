@@ -17,13 +17,6 @@ I like to explore the intersection between advanced computational methods and bi
 
 ---
 
-## Technical Skills
-
-
-
-
-
-
 ## Top Skills — Machine Learning & AI
 
 <p>
