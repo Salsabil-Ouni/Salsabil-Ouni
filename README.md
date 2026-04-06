@@ -37,15 +37,6 @@ I like to explore the intersection between advanced computational methods and bi
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
-### Core Strengths
-- Deep learning (CNNs, RNNs, Transformers)
-- Classical ML (SVMs, Random Forests, Gradient Boosting)
-- Data preprocessing & feature engineering
-- Model evaluation, optimization, and deployment
-- Computer vision (OpenCV, PyTorch, TensorFlow)
-- NLP fundamentals (embedding models, sequence models)
-- Working with biomedical datasets & genetic data
-## Other Skills
 
 ### Programming Languages
 <p>
