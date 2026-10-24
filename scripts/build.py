@@ -103,7 +103,7 @@ def hero():
              '<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="3.2s" fill="freeze"/>'
              '<text class="sub" x="402" y="200" font-size="19" font-weight="600">AI and data science engineer</text>'
              '<text class="sub" x="402" y="228" font-size="15">molecular medicine researcher &#183; Japan-experienced AI intern</text>'
-             '<text class="sub" x="402" y="254" font-size="15">genomics &#183; bioinformatics &#183; a lot of tea</text></g>')
+             '<text class="sub" x="402" y="254" font-size="15">genomics &#183; bioinformatics </text></g>')
     write("hero.svg", svg(w, h, body, "Cinnamoroll floating in a sky with a typed greeting"))
 
 
